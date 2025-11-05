@@ -1,7 +1,12 @@
-| Consistency | Butter | Flour | Milk | Common Uses |
-|-----------|-----------|-----------|-----------|-----------|
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 | Row 1, Col 5 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 4 | Row 2, Col 5 |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 | Row 3, Col 5 |
-| Row 4, Col 1 | Row 4, Col 2 | Row 4, Col 3 | Row 4, Col 4 | Row 4, Col 5 |
-| Row 5, Col 1 | Row 5, Col 2 | Row 5, Col 3 | Row 5, Col 4 | Row 5, Col 5 |
+<table>
+  <thead>
+    <tr>
+      <th>Consistency</th><th>Butter</th><th>Flour</th><th>Milk</th><th>Common Uses</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Thin</td><td>25g</td><td>25g</td><td>500mL</td><td>Creamy Soups</td></tr>
+    <tr><td>Medium</td><td>50g</td><td>50g</td><td>500mL</td><td>Pastas</td></tr>
+    <tr><td>Thick</td><td>75g</td><td>75g</td><td>500mL</td><td>Souffles</td></tr>
+  </tbody>
+</table>
